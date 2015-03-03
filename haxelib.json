@@ -1,0 +1,11 @@
+{
+    "name": "JPGEncoder",
+    "url" : "https://github.com/Codirs/JPGEndcoder",
+    "license": "GPL",
+    "tags": ["flash, "jpg", "jpeg", "png", "pmp"],
+    "description": "An updated version of the library. For Haxe 3.0. Which was created cristi.baluta. JPGEncoder is a set of classes made by Adobe to encode in AS3 a bmp, png and jpg from a BitmapData object. Sample usage on my website.",
+    "version": "1.0.1",
+    "releasenote": "Version updated to be compatible with Haxe 3.0",
+    "contributors": ["Codirs"],
+    "dependencies": {}
+}
